@@ -26,7 +26,7 @@ Email: miglenamedintsova@gmail.com
 
 Let's connect, collaborate, and build quality software together! 🚀✨
 
-https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg?fbclid=IwAR0e-jRhzRwFV0PEYZ7cS0NkUPVi4wLa9lw1imkBuRp2URQ4Exw24Zl9gw4
+
 
 <!---
 Miglena-Medintsova/Miglena-Medintsova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
