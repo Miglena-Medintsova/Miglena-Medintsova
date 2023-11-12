@@ -21,7 +21,9 @@ I'm on a journey to become a well-rounded QA professional, continuously expandin
 📫 Connect With Me:
 
 LinkedIn: https://www.linkedin.com/in/miglena-medintsova-711911270/
+
 Email: miglenamedintsova@gmail.com
+
 Let's connect, collaborate, and build quality software together! 🚀✨
 
 <!---
