@@ -3,8 +3,11 @@
 🌐 Tech Stack:
 
 JavaScript Basics
+
 QA Basics
+
 HTML & CSS Basics
+
 Software Technologies
 
 📚 Currently Learning:
