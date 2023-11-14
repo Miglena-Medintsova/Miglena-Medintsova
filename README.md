@@ -2,17 +2,18 @@
 
 🌐 Tech Stack:
 
-JavaScript Basics
+🚀🌐🤖 JavaScript Basics
 
-QA Basics
+🐞🛠️ QA Basics
 
-HTML & CSS Basics
+🌐🎨 HTML & CSS Basics
 
-Software Technologies
+💻🌐 Software Technologies
 
 📚 Currently Learning:
 
 QA Fundamentals
+
 Manual Testing
 
 🔍 About Me:
