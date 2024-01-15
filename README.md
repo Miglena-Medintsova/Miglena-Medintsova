@@ -2,19 +2,19 @@
 
 🌐 Tech Stack:
 
-JavaScript Basics
+- JavaScript Basics
 
-QA Basics
+- QA Basics
 
-HTML & CSS Basics
+- HTML & CSS Basics
 
-Software Technologies
+- Software Technologies
 
-QA Fundamentasl and Manual Testing
+- QA Fundamentals and Manual Testing
 
 📚 Currently Learning:
 
-Programming Fundamentals and Unit Testing
+Programming Fundamentals C# and Unit Testing
 
 🔍 About Me:
 I'm passionate about ensuring software quality and delivering seamless user experiences. With a foundation in JavaScript, HTML, and CSS, I'm diving into the world of Quality Assurance, honing my skills in both QA fundamentals and manual testing.
