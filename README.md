@@ -28,7 +28,7 @@ LinkedIn: https://www.linkedin.com/in/miglena-medintsova-711911270/
 
 Email: miglenamedintsova@gmail.com 
 <div>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" (mailto:miglenamedintsova@gmail.com) alt="Gmail" width="40" height="40"/>&nbsp;
 <div>
 
 Let's connect, collaborate, and build quality software together! 🚀✨
