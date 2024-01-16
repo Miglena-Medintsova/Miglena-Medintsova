@@ -26,7 +26,7 @@ I'm on a journey to become a well-rounded QA professional, continuously expandin
 
 LinkedIn: https://www.linkedin.com/in/miglena-medintsova-711911270/
 
-Email: miglenamedintsova@gmail.com
+Email: miglenamedintsova@gmail.com https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 Let's connect, collaborate, and build quality software together! 🚀✨
 
