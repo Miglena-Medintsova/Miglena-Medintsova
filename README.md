@@ -12,9 +12,11 @@
 
 - QA Fundamentals and Manual Testing
 
+- Programing Fundamentals C# and Unit Testing
+
 📚 Currently Learning:
 
-Programming Fundamentals C# and Unit Testing
+Programming Advanced for QA with C#
 
 🔍 About Me:
 I'm passionate about ensuring software quality and delivering seamless user experiences. With a foundation in JavaScript, HTML, and CSS, I'm diving into the world of Quality Assurance, honing my skills in both QA fundamentals and manual testing.
