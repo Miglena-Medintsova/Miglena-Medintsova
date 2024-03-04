@@ -19,7 +19,7 @@
 Programming Advanced for QA with C#
 
 🔍 About Me:
-I'm passionate about ensuring software quality and delivering seamless user experiences. With a foundation in JavaScript, HTML, and CSS, I'm diving into the world of Quality Assurance, honing my skills in both QA fundamentals and manual testing.
+I'm passionate about ensuring software quality and delivering seamless user experiences. With a foundation in JavaScript, HTML, and CSS, I'm diving into the world of Quality Assurance, honing my skills in QA Fundamentals and Manual Testing, Programming Fundamentals and Unit Testing.
 
 📈 Goals:
 I'm on a journey to become a well-rounded QA professional, continuously expanding my knowledge and contributing to innovative projects. I believe in the power of collaboration and learning from real-world experiences.
